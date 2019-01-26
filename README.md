@@ -4,8 +4,16 @@
 This course is lead by Prof. Mong-Na Lo Huang.  
 Prof. Chih-Wei Chen, Prof. Jephian C.-H. Lin, and Prof. ShengLi Tzeng help with the group discussion.
 
-This is only the page for one of the groups.
-## 主題：統計分析入門手冊編寫 (Introductory statistical analysis without programming)
+## 各組專題連結
+* [Geometric measurements](https://sites.google.com/site/chihweichenmathematician/teaching/practice-of-applied-mathematics) by Chih-Wei Chen
+
+* [Sageable mathematics](https://github.com/jephianlin/SageableMath/blob/master/2019SMath316.md) by Jephian Lin
+
+* [Introductory statistical analysis without programming](https://github.com/sltzeng/2019SMath316SL) by ShengLi Tzeng 
+
+This is only the page for the groups of ShengLi Tzeng.
+
+## 本組主題：統計分析入門手冊編寫 (Introductory statistical analysis without programming)
 Lead by ShengLi Tzeng.
 
 ### 專題摘要：
