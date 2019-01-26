@@ -16,7 +16,7 @@ Lead by ShengLi Tzeng.
 此專題編寫的手冊強調儘可能不寫程式、不用指令、按圖操作即可產生常用統計分析之報表。藉由這個專題,編寫的同學可再次複習統計學的細節,而日後使用手冊的同學也有方便易用的使用說明,較易專注在統計概念的學習。
 
 ### 參考文獻：
-* Shahbaba, Babak (2012). _Biostatistics with R: an introduction to statistics through biological data_. Springer Science+Business Media. David Diez and Mine Cetinkaya-Rundel (2017). OpenIntro Statistics (Third Edition). Retrieved from
+* Shahbaba, Babak (2012). _Biostatistics with R: an introduction to statistics through biological data_. Springer Science+Business Media. * David Diez and Mine Cetinkaya-Rundel (2017). OpenIntro Statistics (Third Edition). Retrieved from
 http://www.freetechbooks.com/openintro-statistics-third-edition-t1055.html
 
 ### 課程教學大綱
