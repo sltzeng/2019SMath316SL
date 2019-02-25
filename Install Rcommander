@@ -7,3 +7,8 @@ Step 3: 在R的命令列輸入以下指令
         可能會跳出警告視窗，按OK繼續安裝即可
 Step 4: 再輸入一次  library(Rcmdr)
 Step 5: 如果關掉Rcommander了，可在R的命令列輸入Commander()重新啟用。      
+
+
+基本操作參考資料： 
+http://web.ydu.edu.tw/~alan9956/docu/refer/R03_RCommander.pdf
+https://bookdown.org/sulaxd/Rcmdr/Rcmdr.html
