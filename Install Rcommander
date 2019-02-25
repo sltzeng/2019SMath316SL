@@ -1,11 +1,11 @@
-Step 1: 確認 R >= 3.5.1
+Step 1: 確認已安裝 R >= 3.5.1
 Step 2: 在R的命令列輸入以下指令
         install.packages("Rcmdr")
         選擇下載鏡像站點(日本、韓國、馬來西亞、印尼、菲律賓等會較快)
 Step 3: 在R的命令列輸入以下指令
         library(Rcmdr)
         可能會跳出警告視窗，按OK繼續安裝即可
-Step 4: 再輸入一次  library(Rcmdr)
+Step 4: 再輸入一次 library(Rcmdr)
 Step 5: 如果關掉Rcommander了，可在R的命令列輸入Commander()重新啟用。      
 
 
