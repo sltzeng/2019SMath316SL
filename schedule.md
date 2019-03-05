@@ -2,7 +2,7 @@
 
 1. 摘要統計量、常用圖表
 2. 常見機率分布(Bernuli, binomial, Poisson, exponenitial, discrete uniform)
-3. 常見機率分布(幾何分布, 超幾何分布, 負二項分布, Normal, continuous uniform)
+3. 常見機率分布(幾何分布, 負二項分布, 超幾何分布, normal, continuous uniform)
 4. 抽樣分布與中央極限定理
 5. 單樣本假設檢定
 6. 雙樣本假設檢定
