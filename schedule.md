@@ -1,3 +1,5 @@
+# 預計進度
+
 1. 摘要統計量、常用圖表
 2. 常見機率分布(Bernuli, binomial, Poisson, exponenitial, discrete uniform)
 3. 常見機率分布(幾何分布, 超幾何分布, 負二項分布, Normal, continuous uniform)
@@ -8,7 +10,7 @@
 8. 變異數分析
 9. 迴歸分析
 
-可參考資料:
+# 可參考資料:
 * https://blog.xuite.net/yearend/r/15859579
 * http://cw.routledge.com/textbooks/9780805861853/guide-to-R.asp
 * http://open.163.com/special/Khan/probability.html
