@@ -11,6 +11,8 @@
 可參考資料:
 * https://blog.xuite.net/yearend/r/15859579
 * http://cw.routledge.com/textbooks/9780805861853/guide-to-R.asp
-* onlinestatbook.com/2/index.html
+* http://open.163.com/special/Khan/probability.html
+* http://open.163.com/special/Khan/khstatistics.html
+* http://onlinestatbook.com/2/index.html
 * https://openstax.org/details/books/introductory-statistics
 * https://open.umn.edu/opentextbooks/textbooks/introductory-statistics
