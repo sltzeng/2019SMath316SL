@@ -18,3 +18,10 @@
 * http://onlinestatbook.com/2/index.html
 * https://openstax.org/details/books/introductory-statistics
 * https://open.umn.edu/opentextbooks/textbooks/introductory-statistics
+
+# R Markdown 
+* 安裝 https://blog.csdn.net/lixiaomie01/article/details/78012942
+* 簡介 https://dspim.github.io/A1-basic-data-analysis/
+* 更多語法 https://bookdown.org/tpemartin/rmarkdown_intro/
+* 樣板檔  https://notepad.pw/xzc1cb1b
+
