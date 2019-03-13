@@ -23,5 +23,6 @@
 * 安裝 https://blog.csdn.net/lixiaomie01/article/details/78012942
 * 簡介 https://dspim.github.io/A1-basic-data-analysis/
 * 更多語法 https://bookdown.org/tpemartin/rmarkdown_intro/
-* 樣板檔  https://notepad.pw/xzc1cb1b
+* 樣板檔 https://github.com/sltzeng/2019SMath316SL/blob/master/template.txt <br>
+  或 https://notepad.pw/xzc1cb1b
 
