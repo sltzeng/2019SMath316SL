@@ -1,0 +1,46 @@
+---
+title: 標題打在這
+author: somebody
+date: Mar 7, 2019
+output:
+
+  html_document:
+
+    toc: true
+
+    toc_depth: 2
+
+    toc_float:
+
+      collapsed: false
+
+      smooth_scroll: false
+
+---
+
+---
+
+# ***粗斜體大標***
+## 次標
+## *斜體次標*
+####  **粗體小標**
+
+* 條列1
+* 條列2
+* 條列3
+
+
+```{r}
+1+1 # r 程式放這
+```
+
+強迫換行用"\<br\>"
+
+數學式就像latex的打法： $\frac{\sqrt{\alpha}}{\beta^2}$
+
+<!---看不見的註解    -->
+
+要插入圖的話用(把 '\\\<' 換成'\<', '\\\>' 換成'\>')
+
+'\<img src="traceback.jpg" width="65%", height="65%"/\>'
+
