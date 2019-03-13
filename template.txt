@@ -34,6 +34,8 @@ output:
 1+1 # r 程式放這
 ```
 
+複製本樣板後記得副檔名改為 .Rmd
+
 強迫換行用"\<br\>"
 
 數學式就像latex的打法： $\frac{\sqrt{\alpha}}{\beta^2}$
