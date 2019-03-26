@@ -1,8 +1,8 @@
 # 預計進度
 
-1. 摘要統計量、常用圖表
-https://1drv.ms/u/s!Ap56hcfCXnZXghEI-LjFAaUKoUIj
-https://1drv.ms/u/s!Ap56hcfCXnZXghJ3J7poYZ3fx4lA
+1. 摘要統計量、常用圖表 <br>
+https://1drv.ms/u/s!Ap56hcfCXnZXghEI-LjFAaUKoUIj <br>
+https://1drv.ms/u/s!Ap56hcfCXnZXghJ3J7poYZ3fx4lA <br>
 
 2. 常見機率分布(Bernuli, binomial, Poisson, exponenitial, discrete uniform)
 3. 常見機率分布(幾何分布, 負二項分布, 超幾何分布, normal, continuous uniform)
