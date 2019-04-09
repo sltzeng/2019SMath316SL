@@ -6,6 +6,9 @@ https://1drv.ms/u/s!Ap56hcfCXnZXghJ3J7poYZ3fx4lA <br>
 
 2. 常見機率分布(Bernuli, binomial, Poisson, exponenitial, discrete uniform)
 3. 常見機率分布(幾何分布, 負二項分布, 超幾何分布, normal, continuous uniform)
+https://1drv.ms/u/s!Ap56hcfCXnZXghWDTiVmUD1gVjD6 <br>
+https://1drv.ms/u/s!Ap56hcfCXnZXghatL_y35zjQGTvx <>
+
 4. 抽樣分布與中央極限定理
 5. 單樣本假設檢定
 6. 雙樣本假設檢定
